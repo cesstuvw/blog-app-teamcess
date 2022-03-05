@@ -122,7 +122,7 @@ const styles = StyleSheet.create({
   },
   ellipse1:{
     alignSelf: 'center',
-    backgroundColor: colors.secondary,
+    backgroundColor: colors.ellipseEyeText,
     width: 18,
     height: 18,
     borderRadius: 25,
